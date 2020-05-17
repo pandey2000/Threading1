@@ -1,0 +1,7 @@
+C:\Users\t-ampand\source\repos\ContextSwitching\ContextSwitching\bin\Debug\ContextSwitching.exe.config
+C:\Users\t-ampand\source\repos\ContextSwitching\ContextSwitching\bin\Debug\ContextSwitching.exe
+C:\Users\t-ampand\source\repos\ContextSwitching\ContextSwitching\bin\Debug\ContextSwitching.pdb
+C:\Users\t-ampand\source\repos\ContextSwitching\ContextSwitching\obj\Debug\ContextSwitching.csprojAssemblyReference.cache
+C:\Users\t-ampand\source\repos\ContextSwitching\ContextSwitching\obj\Debug\ContextSwitching.csproj.CoreCompileInputs.cache
+C:\Users\t-ampand\source\repos\ContextSwitching\ContextSwitching\obj\Debug\ContextSwitching.exe
+C:\Users\t-ampand\source\repos\ContextSwitching\ContextSwitching\obj\Debug\ContextSwitching.pdb
